@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "translator",
+  "version": "0.1.0",
+
+
+  "content_scripts": [
+    {
+      "js": [
+        "content-script.js"
+      ],
+      "matches": ["https://*/*", "http://*/*"]
+    }
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  }
+
+}
