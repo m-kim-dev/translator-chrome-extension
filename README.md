@@ -38,7 +38,7 @@ chrome://extensions
 
 ### Usage
 1. Highlight text on any webpage.
-2. Right-click and select Translate with ChatGPT.
+2. Double-click and select Translate with ChatGPT.
 3. View the translation instantly.
 
 ## Contributing
